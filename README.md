@@ -51,9 +51,9 @@ Type your messages and see the bot respond. Type exit to end the conversation.
 
 ```
 Simple-Rule-Based-Chatbot/
-│-- Chatbot.py           # Main chatbot script
-│-- README.md            # Documentation
-│-- assets/              # Images for README
+│-- Chatbot.py          
+│-- README.md            
+│-- assets/              
 │    ├── CODE.JPG
 │    └── OUTPUT.JPG
 ```
